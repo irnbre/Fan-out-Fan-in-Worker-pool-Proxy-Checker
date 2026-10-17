@@ -1,0 +1,10 @@
+ip:port:login:pass
+ip:port:login:pass
+ip:port:login:pass
+ip:port:login:pass
+ip:port:login:pass
+
+
+
+ТИП SOCKS5!!!!
+
